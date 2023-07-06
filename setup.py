@@ -12,7 +12,6 @@ setup(
   url='https://github.com/Brunozhon/quiz-maker',
   keywords='quiz maker',
   install_requires=[
-    'pysimplegui',
-    'sys'
-  ],
+    'pysimplegui'
+  ]
 )
