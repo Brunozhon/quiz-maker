@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
   name='quiz-maker',
-  version='1.-',
+  version='1.0',
   license='MIT',
   author="Bruno Zhong",
   author_email='email@example.com', # Har har har!
